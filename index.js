@@ -10,3 +10,7 @@ function happyHolidaysTo(Samara) {
 function happyCustomHolidayTo(New Year, everyone) {
   return `Happy ${New Year}, ${everyone}!`
 }
+
+function holidayCountdown(holiday, days) {
+  return `It's ${180} days until ${holiday}!`
+}
