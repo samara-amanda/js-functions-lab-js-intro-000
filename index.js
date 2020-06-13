@@ -8,8 +8,6 @@ function happyHolidaysTo(name) {
 }
 
 function happyCustomHolidayTo(holiday, name) {
-  var holiday = "New Year"
-  var name = "everyone"
   return `Happy ${holiday}, ${name}!`
 }
 
