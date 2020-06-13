@@ -7,6 +7,6 @@ function happyHolidaysTo(Samara) {
   return `Happy holidays, ${Samara}!`
 }
 
-function happyCustomHolidayTo(Easter, Samara) {
-  return `Happy ${Easter}, ${Samara}`
+function happyCustomHolidayTo(Independence, you) {
+  return `Happy ${Independaence Day}, to ${you}`
 }
