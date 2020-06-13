@@ -11,11 +11,12 @@ function happyHolidaysTo(name) {
 function happyCustomHolidayTo(holiday, name) {
   var holiday = "New Year"
   var name = "everyone"
-  return `Happy ${holiday, ${everyone}!`
+  return `Happy ${holiday, ${name}!`
+}
 }
 
 function holidayCountdown(holiday, days) {
   var holiday = "Mother's Day"
   var days = 20
-  return `It's ${days} days until ${holiday}!`
+  return `It\'s ${days} days until ${holiday}!`
 }
