@@ -8,5 +8,5 @@ function happyHolidaysTo(Samara) {
 }
 
 function happyCustomHolidayTo(Independence, you) {
-  return `Happy ${Independaence Day}, to ${you}`
+  return `Happy ${Independance Day}, to ${you}`
 }
