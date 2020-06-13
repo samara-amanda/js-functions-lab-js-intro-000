@@ -1,4 +1,3 @@
-// write your code below!
 function happyHolidays() {
   return "Happy holidays!"
 }
@@ -16,7 +15,5 @@ function happyCustomHolidayTo(holiday, name) {
 }
 
 function holidayCountdown(holiday, days) {
-  var holiday = "Mother's Day"
-  var days = 20
   return `It\'s ${days} days until ${holiday}!`
 }
